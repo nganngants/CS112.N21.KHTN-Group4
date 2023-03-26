@@ -1,4 +1,8 @@
-# CS112.N21.KHTN - Group 4 
+# Nhóm 4 - Lớp Phân tích và thiết kế thuật toán - CS112.N21.KHTN
+
+## Giảng viên
+
+* Nguyễn Thanh Sơn
 
 ## Thành viên
 
